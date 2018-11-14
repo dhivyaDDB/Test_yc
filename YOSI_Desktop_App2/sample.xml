@@ -1,0 +1,1461 @@
+[INFO] 2018-11-08 07:30:17,718 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 07:40:17,887 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 07:45:18,022 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 07:45:18,023 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 07:45:18,025 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 07:45:18,026 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 07:45:18,026 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 07:45:18,597 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 07:45:18,613 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 07:45:18,613 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 07:45:18,613 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 07:45:18,613 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 10:46:30,828 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 10:46:30,976 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 10:46:48,474 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 10:46:49,349 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 10:46:49,353 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 10:46:49,357 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 10:46:49,357 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 10:46:51,059 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 10:46:51,983 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 10:46:51,984 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 10:46:52,009 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 10:46:52,010 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 10:46:52,033 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 10:46:52,052 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 10:46:52,052 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 10:46:52,903 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,42223.
+[INFO] 2018-11-08 10:47:42,175 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 10:47:42,194 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 10:47:42,198 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 10:47:42,214 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 10:47:42,388 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 10:47:45,478 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:03:25,185 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:03:25,243 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:03:25,256 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:03:25,266 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:03:25,275 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:03:25,281 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:03:25,287 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:03:25,294 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:03:25,300 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:03:25,329 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:03:25,379 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:03:25,380 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:03:25,384 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:03:25,385 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:03:25,386 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:03:25,902 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:03:25,903 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:03:25,904 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:03:25,904 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:03:25,905 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:03:41,475 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:03:41,475 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:03:51,243 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:03:52,100 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:03:52,106 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:03:52,110 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:03:52,110 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:03:53,629 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:03:54,687 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:03:54,687 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:03:54,711 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:03:54,711 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:03:54,737 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:03:54,761 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:03:54,761 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:03:55,545 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,42223.
+[INFO] 2018-11-08 11:04:58,955 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:04:58,979 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:04:58,990 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:04:59,004 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:04:59,014 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:04:59,022 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:04:59,032 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:04:59,039 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:04:59,047 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:04:59,055 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:04:59,079 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:04:59,114 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:04:59,115 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:04:59,116 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:04:59,117 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:04:59,117 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:04:59,392 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:04:59,392 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:04:59,392 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:04:59,392 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:04:59,392 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:05:15,245 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:05:15,245 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:05:23,170 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:05:24,036 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:05:24,042 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:05:24,047 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:05:24,047 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:05:26,127 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:05:27,045 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:05:27,045 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:05:27,069 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:05:27,070 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:05:27,094 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:05:27,112 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:05:27,112 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:05:27,913 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,42223.
+[INFO] 2018-11-08 11:05:29,517 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 11:05:29,538 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 11:05:29,543 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 11:05:29,566 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 11:05:29,671 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 11:05:30,594 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 11:05:30,611 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:06:17,068 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:06:17,097 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:06:17,115 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:06:17,130 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:06:17,139 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:06:17,149 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:06:17,157 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:06:17,167 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:06:17,176 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:06:17,203 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:06:17,234 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:06:17,235 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:06:17,237 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:06:17,238 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:06:17,239 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:06:17,511 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:06:17,512 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:06:17,512 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:06:17,512 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:06:17,512 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:06:32,310 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:06:32,310 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:06:40,154 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:06:41,197 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:06:41,201 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:06:41,206 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:06:41,206 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:06:42,776 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:06:43,683 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:06:43,684 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:06:43,721 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:06:43,721 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:06:43,745 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:06:43,770 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:06:43,770 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:06:44,598 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,42223.
+[INFO] 2018-11-08 11:06:50,419 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 11:06:50,441 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 11:06:50,450 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 11:06:50,466 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 11:06:50,595 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 11:06:51,498 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 11:06:51,679 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:06:53,068 com.yosi.util.Log info - Secondary Fname entered : 
+Gamly
+[INFO] 2018-11-08 11:06:53,068 com.yosi.util.Log info - First Name of the patient Gamly
+[INFO] 2018-11-08 11:06:53,068 com.yosi.util.Log info -  Primary First Name Validation In Insurance INFO PAGE
+[INFO] 2018-11-08 11:06:53,339 com.yosi.util.Log info - Last Name of the patient Tests
+[INFO] 2018-11-08 11:06:53,339 com.yosi.util.Log info - Primary Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 11:06:53,352 com.yosi.util.Log info - Primary policy number entered : Tests
+[INFO] 2018-11-08 11:06:53,656 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 11:06:53,788 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 11:06:54,012 com.yosi.util.Log info - Secondary SSN entered : 
+252-52-5252
+[INFO] 2018-11-08 11:06:54,979 com.yosi.util.Log info - Secondary Address entered 
+21,kindy Apartment,DS,10036.
+[INFO] 2018-11-08 11:06:55,393 com.yosi.util.Log info - Primary insurance selected : Aethna
+[INFO] 2018-11-08 11:06:56,058 com.yosi.util.Log info - Secondary Fname entered : 
+FRED
+[INFO] 2018-11-08 11:06:56,058 com.yosi.util.Log info - First Name of the patient FRED
+[INFO] 2018-11-08 11:06:56,059 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:06:56,286 com.yosi.util.Log info - Last Name of the patient TEST
+[INFO] 2018-11-08 11:06:56,286 com.yosi.util.Log info -  Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 11:06:56,300 com.yosi.util.Log info - Secondary Lname entered : 
+TEST
+[INFO] 2018-11-08 11:06:56,592 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 11:06:56,744 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 11:06:56,976 com.yosi.util.Log info - Secondary SSN entered : 
+252-52-5252
+[INFO] 2018-11-08 11:06:57,813 com.yosi.util.Log info - Secondary Address entered 
+21,kindy Apartment,DS,10036.
+[INFO] 2018-11-08 11:06:58,018 com.yosi.util.Log info - PATIENT ADDITIONAL INFORMATION
+[INFO] 2018-11-08 11:07:00,051 com.yosi.util.Log info - SSN entered : 
+444-44-4444
+[INFO] 2018-11-08 11:46:02,166 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:46:03,016 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:46:03,024 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:46:03,712 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:46:03,721 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:46:03,730 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:46:03,747 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:46:03,763 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:46:03,779 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:46:03,857 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:46:04,754 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:46:04,817 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:46:04,817 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:46:04,864 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:46:04,864 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:46:06,541 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:46:06,541 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:46:06,541 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:46:06,541 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:46:06,541 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:46:55,226 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:46:55,226 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:47:04,006 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:47:04,858 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:47:04,862 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:47:04,866 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:47:04,867 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:47:08,601 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:47:10,164 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:47:10,164 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:47:10,190 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:47:10,190 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:47:10,214 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:47:10,234 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:47:10,234 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:47:11,071 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,42223.
+[INFO] 2018-11-08 11:47:21,576 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 11:47:21,592 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 11:47:21,623 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 11:47:21,664 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 11:47:21,791 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 11:47:22,699 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 11:47:22,873 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:47:26,544 com.yosi.util.Log info - Secondary Fname entered : 
+Gamly
+[INFO] 2018-11-08 11:47:26,544 com.yosi.util.Log info - First Name of the patient Gamly
+[INFO] 2018-11-08 11:47:26,544 com.yosi.util.Log info -  Primary First Name Validation In Insurance INFO PAGE
+[INFO] 2018-11-08 11:47:26,761 com.yosi.util.Log info - Last Name of the patient Tests
+[INFO] 2018-11-08 11:47:26,762 com.yosi.util.Log info - Primary Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 11:47:26,773 com.yosi.util.Log info - Primary policy number entered : Tests
+[INFO] 2018-11-08 11:47:27,053 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 11:47:27,180 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 11:47:37,832 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:47:37,858 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:47:37,876 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:47:37,887 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:47:37,895 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:47:37,902 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:47:37,908 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:47:37,913 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:47:37,919 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:47:37,937 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:47:37,969 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:47:37,970 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:47:37,972 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:47:37,973 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:47:37,973 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:47:38,246 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:47:38,246 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:47:38,246 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:47:38,246 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:47:38,246 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:48:24,707 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:48:24,707 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:48:31,338 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:48:32,184 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:48:32,187 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:48:32,193 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:48:32,193 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:48:33,946 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:48:34,812 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:48:34,813 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:48:34,841 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:48:34,841 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:48:34,866 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:48:34,881 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:48:34,881 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:48:35,717 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,42223.
+[INFO] 2018-11-08 11:48:46,845 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 11:48:46,865 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 11:48:46,877 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 11:48:46,888 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 11:48:47,038 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 11:48:47,938 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 11:48:48,102 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:48:52,022 com.yosi.util.Log info - Secondary Fname entered : 
+Gamly
+[INFO] 2018-11-08 11:48:52,023 com.yosi.util.Log info - First Name of the patient Gamly
+[INFO] 2018-11-08 11:48:52,023 com.yosi.util.Log info -  Primary First Name Validation In Insurance INFO PAGE
+[INFO] 2018-11-08 11:48:52,251 com.yosi.util.Log info - Last Name of the patient Tests
+[INFO] 2018-11-08 11:48:52,252 com.yosi.util.Log info - Primary Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 11:48:52,264 com.yosi.util.Log info - Primary policy number entered : Tests
+[INFO] 2018-11-08 11:48:52,544 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 11:48:52,670 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 11:49:45,788 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:49:45,818 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:49:45,831 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:49:45,841 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:49:45,851 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:49:45,858 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:49:45,865 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:49:45,871 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:49:45,877 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:49:45,898 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:49:45,930 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:49:45,932 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:49:45,933 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:49:45,934 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:49:45,935 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:49:46,219 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:49:46,219 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:49:46,220 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:49:46,220 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:49:46,220 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:50:00,130 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:50:00,130 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:50:06,690 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:50:07,556 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:50:07,560 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:50:07,565 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:50:07,566 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:50:09,169 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:50:10,090 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:50:10,091 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:50:10,115 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:50:10,115 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:50:10,146 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:50:10,178 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:50:10,183 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:50:11,008 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,42223.
+[INFO] 2018-11-08 11:50:31,420 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 11:50:31,437 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 11:50:31,451 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 11:50:31,464 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 11:50:31,573 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 11:50:32,500 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 11:50:32,670 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:50:36,616 com.yosi.util.Log info - Secondary Fname entered : 
+Gamly
+[INFO] 2018-11-08 11:50:36,616 com.yosi.util.Log info - First Name of the patient Gamly
+[INFO] 2018-11-08 11:50:36,617 com.yosi.util.Log info -  Primary First Name Validation In Insurance INFO PAGE
+[INFO] 2018-11-08 11:50:36,840 com.yosi.util.Log info - Last Name of the patient Tests
+[INFO] 2018-11-08 11:50:36,840 com.yosi.util.Log info - Primary Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 11:50:36,853 com.yosi.util.Log info - Primary policy number entered : Tests
+[INFO] 2018-11-08 11:50:37,127 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 11:50:37,258 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 11:51:00,289 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:51:00,316 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:51:00,327 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:51:00,337 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:51:00,345 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:51:00,353 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:51:00,360 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:51:00,367 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:51:00,372 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:51:00,393 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:51:00,421 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:51:00,422 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:51:00,423 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:51:00,425 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:51:00,426 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:51:00,668 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:51:00,668 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:51:00,668 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:51:00,668 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:51:00,668 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:51:38,786 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:51:38,787 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:51:46,170 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:51:47,017 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:51:47,018 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:51:47,023 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:51:47,024 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:51:48,700 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:51:49,925 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:51:49,926 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:51:49,950 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:51:49,950 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:51:49,975 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:51:49,999 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:51:49,999 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:51:50,784 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,42223.
+[INFO] 2018-11-08 11:52:04,390 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 11:52:04,411 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 11:52:04,422 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 11:52:04,433 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 11:52:04,579 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 11:52:05,494 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 11:52:05,701 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:52:09,869 com.yosi.util.Log info - Secondary Fname entered : 
+Gamly
+[INFO] 2018-11-08 11:52:09,869 com.yosi.util.Log info - First Name of the patient Gamly
+[INFO] 2018-11-08 11:52:09,870 com.yosi.util.Log info -  Primary First Name Validation In Insurance INFO PAGE
+[INFO] 2018-11-08 11:52:10,127 com.yosi.util.Log info - Last Name of the patient Tests
+[INFO] 2018-11-08 11:52:10,127 com.yosi.util.Log info - Primary Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 11:52:10,137 com.yosi.util.Log info - Primary policy number entered : Tests
+[INFO] 2018-11-08 11:52:10,422 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 11:52:10,548 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 11:53:14,488 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:53:14,517 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:53:14,530 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:53:14,544 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:53:14,554 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:53:14,561 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:53:14,570 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:53:14,577 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:53:14,586 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:53:14,643 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:53:14,683 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:53:14,684 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:53:14,686 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:53:14,688 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:53:14,688 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:53:14,968 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:53:14,968 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:53:14,968 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:53:14,968 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:53:14,968 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:53:28,496 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:53:28,512 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:53:35,428 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:53:36,357 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:53:36,361 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:53:36,365 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:53:36,365 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:53:38,173 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:53:39,048 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:53:39,049 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:53:39,074 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:53:39,074 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:53:39,097 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:53:39,115 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:53:39,115 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:53:39,951 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,42223.
+[INFO] 2018-11-08 11:55:22,386 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:55:22,403 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:55:22,414 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:55:22,424 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:55:22,435 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:55:22,442 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:55:22,456 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:55:22,462 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:55:22,473 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:55:22,481 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:55:22,504 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:55:22,531 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:55:22,532 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:55:22,533 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:55:22,534 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:55:22,534 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:55:22,777 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:55:22,777 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:55:22,777 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:55:22,778 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:55:22,778 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:56:15,958 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:56:15,958 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:56:22,520 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:56:23,329 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:56:23,333 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:56:23,337 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:56:23,337 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:56:24,889 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:56:25,713 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:56:25,714 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:56:25,735 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:56:25,735 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:56:25,754 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:56:25,771 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:56:25,771 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:56:35,742 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 11:56:35,762 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 11:56:35,775 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 11:56:35,785 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 11:56:35,903 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 11:56:36,819 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 11:56:36,999 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:56:40,894 com.yosi.util.Log info - Secondary Fname entered : 
+Gamly
+[INFO] 2018-11-08 11:56:40,894 com.yosi.util.Log info - First Name of the patient Gamly
+[INFO] 2018-11-08 11:56:40,894 com.yosi.util.Log info -  Primary First Name Validation In Insurance INFO PAGE
+[INFO] 2018-11-08 11:56:41,088 com.yosi.util.Log info - Last Name of the patient Tests
+[INFO] 2018-11-08 11:56:41,089 com.yosi.util.Log info - Primary Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 11:56:41,101 com.yosi.util.Log info - Primary policy number entered : Tests
+[INFO] 2018-11-08 11:56:41,360 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 11:56:41,469 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 11:56:52,236 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:56:52,263 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:56:52,274 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:56:52,285 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:56:52,293 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:56:52,300 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:56:52,309 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:56:52,317 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:56:52,324 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:56:52,348 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:56:52,379 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:56:52,381 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:56:52,382 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:56:52,383 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:56:52,383 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:56:52,685 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:56:52,685 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:56:52,686 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:56:52,687 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:56:52,687 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:58:19,964 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:58:19,965 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:58:26,485 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 11:58:27,351 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 11:58:27,353 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 11:58:27,356 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 11:58:27,357 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 11:58:29,110 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 11:58:29,979 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 11:58:29,979 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:58:30,004 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:58:30,005 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 11:58:30,031 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 11:58:30,051 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 11:58:30,051 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 11:58:31,483 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,10036.
+[INFO] 2018-11-08 11:58:32,795 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 11:58:32,813 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 11:58:32,828 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 11:58:32,844 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 11:58:33,009 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 11:58:33,916 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 11:58:34,091 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 11:58:37,911 com.yosi.util.Log info - Secondary Fname entered : 
+Gamly
+[INFO] 2018-11-08 11:58:37,911 com.yosi.util.Log info - First Name of the patient Gamly
+[INFO] 2018-11-08 11:58:37,911 com.yosi.util.Log info -  Primary First Name Validation In Insurance INFO PAGE
+[INFO] 2018-11-08 11:58:38,142 com.yosi.util.Log info - Last Name of the patient Tests
+[INFO] 2018-11-08 11:58:38,142 com.yosi.util.Log info - Primary Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 11:58:38,155 com.yosi.util.Log info - Primary policy number entered : Tests
+[INFO] 2018-11-08 11:58:38,436 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 11:58:38,573 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 11:58:41,769 com.yosi.util.Log info - Secondary SSN entered : 
+252-52-5252
+[INFO] 2018-11-08 11:58:42,666 com.yosi.util.Log info - Secondary Address entered 
+21,kindy Apartment,DS,10036.
+[INFO] 2018-11-08 11:58:43,063 com.yosi.util.Log info - Primary insurance selected : Aethna
+[INFO] 2018-11-08 11:58:43,678 com.yosi.util.Log info - Secondary Fname entered : 
+FRED
+[INFO] 2018-11-08 11:58:43,678 com.yosi.util.Log info - First Name of the patient FRED
+[INFO] 2018-11-08 11:58:43,678 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 11:58:43,932 com.yosi.util.Log info - Last Name of the patient TEST
+[INFO] 2018-11-08 11:58:43,932 com.yosi.util.Log info -  Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 11:58:43,948 com.yosi.util.Log info - Secondary Lname entered : 
+TEST
+[INFO] 2018-11-08 11:58:44,247 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 11:58:44,414 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 11:58:44,651 com.yosi.util.Log info - Secondary SSN entered : 
+252-52-5252
+[INFO] 2018-11-08 11:58:45,467 com.yosi.util.Log info - Secondary Address entered 
+21,kindy Apartment,DS,10036.
+[INFO] 2018-11-08 11:58:45,707 com.yosi.util.Log info - PATIENT ADDITIONAL INFORMATION
+[INFO] 2018-11-08 11:58:47,073 com.yosi.util.Log info - SSN entered : 
+444-44-4444
+[INFO] 2018-11-08 11:58:47,323 com.yosi.util.Log info - Mobile number entered : 
+(503) 400-8675
+[INFO] 2018-11-08 11:58:47,375 com.yosi.util.Log info - Martial Drop Down value:
+                                                            Marital Status
+                                                                Single
+                                                            Married
+                                                            Divorced
+                                                            Separated
+                                                            Widowed
+                                                            Other
+                                                    
+[INFO] 2018-11-08 11:59:00,307 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 11:59:00,332 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 11:59:00,352 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 11:59:00,372 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 11:59:00,381 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 11:59:00,396 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 11:59:00,401 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 11:59:00,405 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 11:59:00,412 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 11:59:00,437 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 11:59:00,480 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:59:00,481 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:59:00,484 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:59:00,486 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:59:00,486 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 11:59:00,738 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 11:59:00,738 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 11:59:00,738 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 11:59:00,738 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 11:59:00,738 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 11:59:52,694 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 11:59:52,694 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 11:59:59,366 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 12:00:00,263 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 12:00:00,266 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 12:00:00,268 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 12:00:00,269 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 12:00:02,149 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 12:00:03,012 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 12:00:03,013 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:00:03,038 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:00:03,039 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 12:00:03,051 com.yosi.util.Log info - Gender: Male
+[INFO] 2018-11-08 12:00:03,089 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 12:00:03,090 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+Male
+02/02/1992
+[INFO] 2018-11-08 12:00:04,454 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,10036.
+[INFO] 2018-11-08 12:00:05,818 com.yosi.util.Log info - The PATIENT GUARANTOR  page
+[INFO] 2018-11-08 12:00:05,838 com.yosi.util.Log info - Radio button valuesYes
+No
+[INFO] 2018-11-08 12:00:05,855 com.yosi.util.Log info - Guarantor FnameGared
+[INFO] 2018-11-08 12:00:05,893 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 12:00:06,027 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 12:00:06,918 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 12:00:07,089 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 12:00:10,786 com.yosi.util.Log info - Secondary Fname entered : 
+Gamly
+[INFO] 2018-11-08 12:00:10,786 com.yosi.util.Log info - First Name of the patient Gamly
+[INFO] 2018-11-08 12:00:10,786 com.yosi.util.Log info -  Primary First Name Validation In Insurance INFO PAGE
+[INFO] 2018-11-08 12:00:11,004 com.yosi.util.Log info - Last Name of the patient Tests
+[INFO] 2018-11-08 12:00:11,004 com.yosi.util.Log info - Primary Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 12:00:11,018 com.yosi.util.Log info - Primary policy number entered : Tests
+[INFO] 2018-11-08 12:00:11,311 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 12:00:11,436 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 12:00:14,745 com.yosi.util.Log info - Secondary SSN entered : 
+252-52-5252
+[INFO] 2018-11-08 12:00:15,610 com.yosi.util.Log info - Secondary Address entered 
+21,kindy Apartment,DS,10036.
+[INFO] 2018-11-08 12:00:15,981 com.yosi.util.Log info - Primary insurance selected : Aethna
+[INFO] 2018-11-08 12:00:16,638 com.yosi.util.Log info - Secondary Fname entered : 
+FRED
+[INFO] 2018-11-08 12:00:16,638 com.yosi.util.Log info - First Name of the patient FRED
+[INFO] 2018-11-08 12:00:16,639 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:00:16,887 com.yosi.util.Log info - Last Name of the patient TEST
+[INFO] 2018-11-08 12:00:16,888 com.yosi.util.Log info -  Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 12:00:16,903 com.yosi.util.Log info - Secondary Lname entered : 
+TEST
+[INFO] 2018-11-08 12:00:17,193 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 12:00:17,327 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 12:00:17,574 com.yosi.util.Log info - Secondary SSN entered : 
+___-__-____
+[INFO] 2018-11-08 12:00:18,396 com.yosi.util.Log info - Secondary Address entered 
+21,kindy Apartment,DS,10036.
+[INFO] 2018-11-08 12:00:18,594 com.yosi.util.Log info - PATIENT ADDITIONAL INFORMATION
+[INFO] 2018-11-08 12:00:20,036 com.yosi.util.Log info - SSN entered : 
+444-44-4444
+[INFO] 2018-11-08 12:00:20,274 com.yosi.util.Log info - Mobile number entered : 
+(503) 400-8675
+[INFO] 2018-11-08 12:00:20,327 com.yosi.util.Log info - Martial Drop Down value:
+                                                            Marital Status
+                                                                Single
+                                                            Married
+                                                            Divorced
+                                                            Separated
+                                                            Widowed
+                                                            Other
+                                                    
+[INFO] 2018-11-08 12:00:21,686 com.yosi.util.Log info - EMC Fname: 
+Fredy
+[INFO] 2018-11-08 12:00:21,902 com.yosi.util.Log info - EMC Lname: 
+test
+[INFO] 2018-11-08 12:00:22,340 com.yosi.util.Log info - EMC Contact Num : 
+(555) 555-5555
+[INFO] 2018-11-08 12:00:22,486 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 12:00:23,715 com.yosi.util.Log info - PATIENT PAST MEDICAL HX
+[INFO] 2018-11-08 12:00:25,074 com.yosi.util.Log info - Past Medicalhistory List 
+
+[INFO] 2018-11-08 12:00:25,110 com.yosi.util.Log info - Anemia
+[INFO] 2018-11-08 12:00:25,129 com.yosi.util.Log info - Anxiety Disorder
+[INFO] 2018-11-08 12:00:25,147 com.yosi.util.Log info - Aortic Aneurysm
+[INFO] 2018-11-08 12:00:25,163 com.yosi.util.Log info - Arrhythmia
+[INFO] 2018-11-08 12:00:25,180 com.yosi.util.Log info - Arthritis
+[INFO] 2018-11-08 12:00:25,196 com.yosi.util.Log info - Asthma
+[INFO] 2018-11-08 12:00:25,213 com.yosi.util.Log info - Atrial Fibrillation
+[INFO] 2018-11-08 12:00:25,230 com.yosi.util.Log info - Atrial Flutter
+[INFO] 2018-11-08 12:00:25,247 com.yosi.util.Log info - Blood Clot
+[INFO] 2018-11-08 12:00:25,264 com.yosi.util.Log info - Cancer
+[INFO] 2018-11-08 12:00:25,282 com.yosi.util.Log info - Cardiomyopathy
+[INFO] 2018-11-08 12:00:25,316 com.yosi.util.Log info - Carotid Disease
+[INFO] 2018-11-08 12:00:25,333 com.yosi.util.Log info - Cataracts
+[INFO] 2018-11-08 12:00:25,360 com.yosi.util.Log info - Celiac Disease
+[INFO] 2018-11-08 12:00:25,377 com.yosi.util.Log info - Chronic Back Pain
+[INFO] 2018-11-08 12:00:25,394 com.yosi.util.Log info - Chronic ear infections
+[INFO] 2018-11-08 12:00:25,427 com.yosi.util.Log info - Congenital Heart Disease
+[INFO] 2018-11-08 12:00:25,447 com.yosi.util.Log info - Congestive Heart Failure
+[INFO] 2018-11-08 12:00:25,467 com.yosi.util.Log info - Congestive Heart Failure (CHF)
+[INFO] 2018-11-08 12:00:25,484 com.yosi.util.Log info - COPD
+[INFO] 2018-11-08 12:00:25,501 com.yosi.util.Log info - Coronary Artery Disease
+[INFO] 2018-11-08 12:00:25,517 com.yosi.util.Log info - Deep Vein Thrombosis
+[INFO] 2018-11-08 12:00:25,533 com.yosi.util.Log info - dementia
+[INFO] 2018-11-08 12:00:25,548 com.yosi.util.Log info - Depression
+[INFO] 2018-11-08 12:00:25,564 com.yosi.util.Log info - Diabetes
+[INFO] 2018-11-08 12:00:25,580 com.yosi.util.Log info - Diabetes Type I
+[INFO] 2018-11-08 12:00:25,595 com.yosi.util.Log info - Diabetes Type II
+[INFO] 2018-11-08 12:00:25,611 com.yosi.util.Log info - Difficulty swallowing
+[INFO] 2018-11-08 12:00:25,634 com.yosi.util.Log info - Diverticulitis
+[INFO] 2018-11-08 12:00:25,650 com.yosi.util.Log info - Eyes
+[INFO] 2018-11-08 12:00:25,665 com.yosi.util.Log info - Fibromyalgia
+[INFO] 2018-11-08 12:00:25,681 com.yosi.util.Log info - Gastrointestinal Disease
+[INFO] 2018-11-08 12:00:25,697 com.yosi.util.Log info - Genitourinary Disease
+[INFO] 2018-11-08 12:00:25,722 com.yosi.util.Log info - GERD
+[INFO] 2018-11-08 12:00:25,753 com.yosi.util.Log info - GERD/Reflux
+[INFO] 2018-11-08 12:00:25,774 com.yosi.util.Log info - Gout
+[INFO] 2018-11-08 12:00:25,796 com.yosi.util.Log info - Has Pacemaker
+[INFO] 2018-11-08 12:00:25,818 com.yosi.util.Log info - Heart Disease
+[INFO] 2018-11-08 12:00:25,827 com.yosi.util.Log info - Heart Murmur
+[INFO] 2018-11-08 12:00:25,843 com.yosi.util.Log info - Heart Valve Replacement
+[INFO] 2018-11-08 12:00:25,859 com.yosi.util.Log info - Hematologic Disease
+[INFO] 2018-11-08 12:00:25,890 com.yosi.util.Log info - High Blood Pressure
+[INFO] 2018-11-08 12:00:25,906 com.yosi.util.Log info - High Cholesterol
+[INFO] 2018-11-08 12:00:25,921 com.yosi.util.Log info - Hyperlipidemia
+[INFO] 2018-11-08 12:00:25,940 com.yosi.util.Log info - Hypertension
+[INFO] 2018-11-08 12:00:25,958 com.yosi.util.Log info - Kidney Disease
+[INFO] 2018-11-08 12:00:25,974 com.yosi.util.Log info - Liver Disease
+[INFO] 2018-11-08 12:00:25,990 com.yosi.util.Log info - Meniere's disease
+[INFO] 2018-11-08 12:00:26,024 com.yosi.util.Log info - Meniere's disease
+[INFO] 2018-11-08 12:00:26,042 com.yosi.util.Log info - Myocardial Infarction
+[INFO] 2018-11-08 12:00:26,044 com.yosi.util.Log info - Nasal polyps
+[INFO] 2018-11-08 12:00:26,075 com.yosi.util.Log info - Neurologic Disorder
+[INFO] 2018-11-08 12:00:26,092 com.yosi.util.Log info - Osteoporosis
+[INFO] 2018-11-08 12:00:26,109 com.yosi.util.Log info - OTHER
+[INFO] 2018-11-08 12:00:26,115 com.yosi.util.Log info - Overactive Thyroid
+[INFO] 2018-11-08 12:00:26,130 com.yosi.util.Log info - Pacemaker
+[INFO] 2018-11-08 12:00:26,146 com.yosi.util.Log info - Peptic Ulcer Disease
+[INFO] 2018-11-08 12:00:26,177 com.yosi.util.Log info - Peripheral Arterial Disease
+[INFO] 2018-11-08 12:00:26,193 com.yosi.util.Log info - Peripheral edema
+[INFO] 2018-11-08 12:00:26,208 com.yosi.util.Log info - rabies
+[INFO] 2018-11-08 12:00:26,232 com.yosi.util.Log info - Sea Sickness
+[INFO] 2018-11-08 12:00:26,248 com.yosi.util.Log info - Sleep Apnea
+[INFO] 2018-11-08 12:00:26,264 com.yosi.util.Log info - Sleep Disorder
+[INFO] 2018-11-08 12:00:26,279 com.yosi.util.Log info - Sore thumb
+[INFO] 2018-11-08 12:00:26,302 com.yosi.util.Log info - Stroke
+[INFO] 2018-11-08 12:00:26,319 com.yosi.util.Log info - Thyroid Disease
+[INFO] 2018-11-08 12:00:26,336 com.yosi.util.Log info - TIA
+[INFO] 2018-11-08 12:00:26,353 com.yosi.util.Log info - Tuberculosis
+[INFO] 2018-11-08 12:00:26,369 com.yosi.util.Log info - Valvular Abnormalities
+[INFO] 2018-11-08 12:00:26,384 com.yosi.util.Log info - Valvular Heart Disease
+[INFO] 2018-11-08 12:00:26,400 com.yosi.util.Log info - Venous Insuffiency
+[INFO] 2018-11-08 12:00:26,416 com.yosi.util.Log info - Warfarin Management
+[INFO] 2018-11-08 12:00:26,431 com.yosi.util.Log info - No Past Medical History
+[INFO] 2018-11-08 12:00:26,431 com.yosi.util.Log info - Past Medicalhistory Selected 
+
+[INFO] 2018-11-08 12:00:26,600 com.yosi.util.Log info - Anemia
+[INFO] 2018-11-08 12:00:26,760 com.yosi.util.Log info - Anxiety Disorder
+[INFO] 2018-11-08 12:00:26,904 com.yosi.util.Log info - Aortic Aneurysm
+[INFO] 2018-11-08 12:00:27,040 com.yosi.util.Log info - Arrhythmia
+[INFO] 2018-11-08 12:00:27,171 com.yosi.util.Log info - Arthritis
+[INFO] 2018-11-08 12:00:27,425 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 12:00:39,266 com.yosi.util.Log info - Medication list
+[INFO] 2018-11-08 12:00:39,517 com.yosi.util.Log info - Medication Selected : 
+
+[INFO] 2018-11-08 12:00:39,834 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 12:00:40,835 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 12:00:42,479 com.yosi.util.Log info - Selected value :
+Blue lips or fingernails
+[INFO] 2018-11-08 12:00:42,619 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 12:00:43,582 com.yosi.util.Log info - Selected value :
+Several days
+[INFO] 2018-11-08 12:00:43,729 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 12:04:17,216 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 12:04:17,238 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 12:04:17,259 com.yosi.util.Log info - Signature Page
+[DEBUG] 2018-11-08 12:04:17,285 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 12:04:17,286 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 12:04:17,288 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 12:04:17,289 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 12:04:17,290 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 12:04:17,550 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 12:04:17,550 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 12:04:17,550 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 12:04:17,550 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 12:04:17,550 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 12:05:54,747 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 12:05:54,747 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 12:06:01,092 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 12:06:02,000 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 12:06:02,004 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 12:06:02,010 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 12:06:02,010 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 12:06:03,812 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 12:06:04,686 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 12:06:04,687 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:06:04,712 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:06:04,712 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 12:06:04,818 com.yosi.util.Log info - Gender: null
+[INFO] 2018-11-08 12:06:04,839 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 12:06:04,839 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+null
+02/02/1992
+[INFO] 2018-11-08 12:06:05,635 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,10036.
+[INFO] 2018-11-08 12:06:21,902 com.yosi.util.Log info - The PATIENT GUARANTOR  page/
+[INFO] 2018-11-08 12:06:21,925 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 12:06:21,936 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 12:06:21,958 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 12:06:21,969 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 12:06:21,983 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 12:06:21,990 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 12:06:22,041 com.yosi.util.Log info - Signature Page
+[INFO] 2018-11-08 12:06:22,051 com.yosi.util.Log info - POILCY PAGE 
+[DEBUG] 2018-11-08 12:06:22,089 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 12:06:22,091 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 12:06:22,095 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 12:06:22,097 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 12:06:22,098 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 12:06:22,340 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 12:06:22,356 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 12:06:22,356 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 12:06:22,356 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 12:06:22,356 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 12:08:47,733 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 12:08:47,735 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 12:08:54,119 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 12:08:54,934 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 12:08:54,937 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 12:08:54,939 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 12:08:54,940 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 12:08:56,778 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 12:08:57,655 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 12:08:57,656 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:08:57,682 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:08:57,682 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 12:08:57,806 com.yosi.util.Log info - Gender: null
+[INFO] 2018-11-08 12:08:57,828 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 12:08:57,828 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+null
+02/02/1992
+[INFO] 2018-11-08 12:08:58,654 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,10036.
+[INFO] 2018-11-08 12:09:13,224 com.yosi.util.Log info - The PATIENT GUARANTOR  page/
+[INFO] 2018-11-08 12:09:13,243 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 12:09:13,255 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 12:09:13,276 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 12:09:13,286 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 12:09:13,299 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 12:09:13,305 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 12:09:13,359 com.yosi.util.Log info - Signature Page
+[INFO] 2018-11-08 12:09:13,371 com.yosi.util.Log info - POILCY PAGE 
+[DEBUG] 2018-11-08 12:09:13,402 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 12:09:13,404 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 12:09:13,406 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 12:09:13,407 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 12:09:13,408 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 12:09:13,668 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 12:09:13,668 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 12:09:13,668 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 12:09:13,668 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 12:09:13,668 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 12:10:54,067 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 12:10:54,067 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 12:11:00,523 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 12:11:01,565 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 12:11:01,568 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 12:11:01,571 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 12:11:01,572 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 12:11:03,312 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 12:11:04,237 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 12:11:04,238 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:11:04,264 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:11:04,264 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 12:11:04,372 com.yosi.util.Log info - Gender: null
+[INFO] 2018-11-08 12:11:04,384 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 12:11:04,384 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+null
+02/02/1992
+[INFO] 2018-11-08 12:11:05,805 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,10036.
+[INFO] 2018-11-08 12:11:06,040 com.yosi.util.Log info - The PATIENT GUARANTOR  page/
+[INFO] 2018-11-08 12:12:09,695 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 12:12:09,695 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 4:45 PM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 12:12:16,869 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 12:12:17,645 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 12:12:17,649 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 12:12:17,653 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 12:12:17,653 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 12:12:19,337 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 12:12:20,365 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 12:12:20,366 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:12:20,384 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:12:20,384 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 12:12:20,516 com.yosi.util.Log info - Gender: null
+[INFO] 2018-11-08 12:12:20,551 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 12:12:20,551 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+null
+02/02/1992
+[INFO] 2018-11-08 12:12:21,812 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,10036.
+[INFO] 2018-11-08 12:12:22,005 com.yosi.util.Log info - The Parent1/Guardian Information
+[INFO] 2018-11-08 12:12:23,825 com.yosi.util.Log info - The Parent2/Guardian Information
+[INFO] 2018-11-08 12:12:24,780 com.yosi.util.Log info - The PATIENT GUARANTOR  page/
+[INFO] 2018-11-08 12:12:27,939 com.yosi.util.Log info - The PATIENT GUARANTOR  page/
+[INFO] 2018-11-08 12:12:27,968 com.yosi.util.Log info - Guarantor FnameDan
+[INFO] 2018-11-08 12:12:27,995 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 12:12:28,026 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 12:12:29,230 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 12:12:29,414 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 12:12:30,621 com.yosi.util.Log info - Primary insurance selected : Aethna
+[INFO] 2018-11-08 12:12:30,897 com.yosi.util.Log info - Primary policy number entered : DPY9261
+[INFO] 2018-11-08 12:12:31,284 com.yosi.util.Log info - Secondary Fname entered : 
+FRED
+[INFO] 2018-11-08 12:12:31,284 com.yosi.util.Log info - First Name of the patient FRED
+[INFO] 2018-11-08 12:12:31,284 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:12:31,535 com.yosi.util.Log info - Last Name of the patient TEST
+[INFO] 2018-11-08 12:12:31,535 com.yosi.util.Log info -  Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 12:12:31,549 com.yosi.util.Log info - Secondary Lname entered : 
+TEST
+[INFO] 2018-11-08 12:12:31,866 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 12:12:32,000 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 12:12:32,242 com.yosi.util.Log info - Secondary SSN entered : 
+252-52-5252
+[INFO] 2018-11-08 12:12:33,067 com.yosi.util.Log info - Secondary Address entered 
+21,kindy Apartment,DS,10036.
+[INFO] 2018-11-08 12:12:33,271 com.yosi.util.Log info - PATIENT ADDITIONAL INFORMATION
+[INFO] 2018-11-08 12:12:34,514 com.yosi.util.Log info - SSN entered : 
+444-44-4444
+[INFO] 2018-11-08 12:12:34,799 com.yosi.util.Log info - Mobile number entered : 
+(503) 400-8675
+[INFO] 2018-11-08 12:12:34,838 com.yosi.util.Log info - Martial Drop Down value:
+                                                            Single
+                                                            Married
+                                                            Divorced
+                                                            Separated
+                                                            Widowed
+                                                            Other
+                                                    
+[INFO] 2018-11-08 12:12:36,124 com.yosi.util.Log info - EMC Fname: 
+Fredy
+[INFO] 2018-11-08 12:12:36,310 com.yosi.util.Log info - EMC Lname: 
+test
+[INFO] 2018-11-08 12:12:36,784 com.yosi.util.Log info - EMC Contact Num : 
+(555) 555-5555
+[INFO] 2018-11-08 12:12:36,937 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 12:12:38,983 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 12:12:43,488 com.yosi.util.Log info - Medication list
+[INFO] 2018-11-08 12:12:43,751 com.yosi.util.Log info - Medication Selected : 
+
+[INFO] 2018-11-08 12:12:44,090 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 12:12:45,093 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 12:12:46,638 com.yosi.util.Log info - Selected value :
+Blue lips or fingernails
+[INFO] 2018-11-08 12:12:46,806 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 12:12:47,756 com.yosi.util.Log info - Selected value :
+Several days
+[DEBUG] 2018-11-08 12:12:51,607 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 12:12:51,608 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 12:12:51,609 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 12:12:51,611 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 12:12:51,612 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 12:12:58,795 com.yosi.util.Log info - Signature Page
+[INFO] 2018-11-08 12:13:06,139 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 12:13:21,260 com.yosi.util.Log info - Reason entered: 
+Fever
+[INFO] 2018-11-08 12:13:22,533 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 12:14:21,814 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 12:14:21,839 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 12:14:21,855 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 12:14:21,866 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 12:14:21,872 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 12:14:21,919 com.yosi.util.Log info - Signature Page
+[INFO] 2018-11-08 12:14:21,930 com.yosi.util.Log info - POILCY PAGE 
+[DEBUG] 2018-11-08 12:14:21,962 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 12:14:21,964 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 12:14:21,965 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 12:14:21,967 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 12:14:21,967 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 12:14:22,212 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 12:14:22,213 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 12:14:22,213 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 12:14:22,213 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 12:14:22,213 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 12:57:53,965 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 12:57:53,981 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 8:00 AM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 12:58:02,661 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 12:58:03,504 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 12:58:03,508 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 12:58:03,514 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 12:58:03,514 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 12:58:05,149 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 12:58:06,112 com.yosi.util.Log info - First Name of the patient Gared
+[INFO] 2018-11-08 12:58:06,112 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:58:06,147 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:58:06,147 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 12:58:06,251 com.yosi.util.Log info - Gender: null
+[INFO] 2018-11-08 12:58:06,270 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 12:58:06,270 com.yosi.util.Log info - Patient Details 
+Gared
+Test
+null
+02/02/1992
+[INFO] 2018-11-08 12:58:07,598 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,10036.
+[INFO] 2018-11-08 12:58:07,790 com.yosi.util.Log info - The Parent1/Guardian Information
+[INFO] 2018-11-08 12:58:14,034 com.yosi.util.Log info - The Parent2/Guardian Information
+[INFO] 2018-11-08 12:58:14,867 com.yosi.util.Log info - The PATIENT GUARANTOR  page/
+[INFO] 2018-11-08 12:58:16,031 com.yosi.util.Log info - The PATIENT GUARANTOR  page/
+[INFO] 2018-11-08 12:58:16,058 com.yosi.util.Log info - Guarantor FnameDan
+[INFO] 2018-11-08 12:58:16,082 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 12:58:16,106 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 12:58:17,226 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 12:58:17,402 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 12:58:35,456 com.yosi.util.Log info - Primary insurance selected : Aethna
+[INFO] 2018-11-08 12:58:35,698 com.yosi.util.Log info - Primary policy number entered : DPY9261
+[INFO] 2018-11-08 12:58:36,102 com.yosi.util.Log info - Secondary Fname entered : 
+FRED
+[INFO] 2018-11-08 12:58:36,102 com.yosi.util.Log info - First Name of the patient FRED
+[INFO] 2018-11-08 12:58:36,102 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 12:58:36,323 com.yosi.util.Log info - Last Name of the patient TEST
+[INFO] 2018-11-08 12:58:36,324 com.yosi.util.Log info -  Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 12:58:36,336 com.yosi.util.Log info - Secondary Lname entered : 
+TEST
+[INFO] 2018-11-08 12:58:36,632 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 12:58:36,786 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 12:58:37,018 com.yosi.util.Log info - Secondary SSN entered : 
+252-52-5252
+[INFO] 2018-11-08 12:58:37,840 com.yosi.util.Log info - Secondary Address entered 
+21,kindy Apartment,DS,10036.
+[INFO] 2018-11-08 12:58:38,036 com.yosi.util.Log info - PATIENT ADDITIONAL INFORMATION
+[INFO] 2018-11-08 12:58:39,261 com.yosi.util.Log info - SSN entered : 
+444-44-4444
+[INFO] 2018-11-08 12:58:39,544 com.yosi.util.Log info - Mobile number entered : 
+(503) 400-8675
+[INFO] 2018-11-08 12:58:39,587 com.yosi.util.Log info - Martial Drop Down value:
+                                                            Single
+                                                            Married
+                                                            Divorced
+                                                            Separated
+                                                            Widowed
+                                                            Other
+                                                    
+[INFO] 2018-11-08 12:58:40,805 com.yosi.util.Log info - EMC Fname: 
+Fredy
+[INFO] 2018-11-08 12:58:40,998 com.yosi.util.Log info - EMC Lname: 
+test
+[INFO] 2018-11-08 12:58:41,383 com.yosi.util.Log info - EMC Contact Num : 
+(555) 555-5555
+[INFO] 2018-11-08 12:58:41,534 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 12:58:43,561 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 13:01:49,337 com.yosi.util.Log info - Medication list
+[INFO] 2018-11-08 13:01:49,593 com.yosi.util.Log info - Medication Selected : 
+
+[INFO] 2018-11-08 13:01:49,911 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 13:01:50,922 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 13:01:52,580 com.yosi.util.Log info - Selected value :
+Blue lips or fingernails
+[INFO] 2018-11-08 13:01:52,721 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 13:01:53,750 com.yosi.util.Log info - Selected value :
+Several days
+[INFO] 2018-11-08 13:01:53,917 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 13:01:55,736 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[DEBUG] 2018-11-08 13:02:00,733 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 13:02:00,733 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 13:02:00,733 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 13:02:00,733 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 13:02:00,733 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 13:02:08,030 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 13:02:11,313 com.yosi.util.Log info - Signature Page
+[INFO] 2018-11-08 13:02:12,249 com.yosi.util.Log info - Reason entered: 
+Fever
+[INFO] 2018-11-08 14:22:45,941 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 14:22:45,956 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 9:12 AM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 14:22:52,754 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 14:22:53,585 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 14:22:53,590 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 14:22:53,593 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 14:22:53,593 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 14:22:55,162 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 14:22:56,042 com.yosi.util.Log info - First Name of the patient Floyd
+[INFO] 2018-11-08 14:22:56,043 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 14:22:56,069 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 14:22:56,069 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 14:22:56,174 com.yosi.util.Log info - Gender: null
+[INFO] 2018-11-08 14:22:56,189 com.yosi.util.Log info - DOB: 02/02/1992
+[INFO] 2018-11-08 14:22:56,189 com.yosi.util.Log info - Patient Details 
+Floyd
+Test
+null
+02/02/1992
+[INFO] 2018-11-08 14:22:57,578 com.yosi.util.Log info - Address of the patient 
+31, River cross road,Texas,10036.
+[INFO] 2018-11-08 14:22:57,818 com.yosi.util.Log info - The Parent1/Guardian Information
+[INFO] 2018-11-08 14:23:04,036 com.yosi.util.Log info - The Parent2/Guardian Information
+[INFO] 2018-11-08 14:23:04,899 com.yosi.util.Log info - The PATIENT GUARANTOR  page/
+[INFO] 2018-11-08 14:23:06,123 com.yosi.util.Log info - The PATIENT GUARANTOR  page/
+[INFO] 2018-11-08 14:23:06,151 com.yosi.util.Log info - Guarantor FnameDan
+[INFO] 2018-11-08 14:23:06,176 com.yosi.util.Log info - Guarantor Lname Test
+[INFO] 2018-11-08 14:23:06,199 com.yosi.util.Log info - Guarantor Relationship null
+[INFO] 2018-11-08 14:23:07,341 com.yosi.util.Log info - Address of the patient 31,green road,Dallas,10036.
+[INFO] 2018-11-08 14:23:07,523 com.yosi.util.Log info - INSURANCE PAGE
+[INFO] 2018-11-08 14:23:08,735 com.yosi.util.Log info - Primary insurance selected : Aethna
+[INFO] 2018-11-08 14:23:09,009 com.yosi.util.Log info - Primary policy number entered : DPY9261
+[INFO] 2018-11-08 14:23:09,382 com.yosi.util.Log info - Secondary Fname entered : 
+FRED
+[INFO] 2018-11-08 14:23:09,382 com.yosi.util.Log info - First Name of the patient FRED
+[INFO] 2018-11-08 14:23:09,382 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 14:23:09,685 com.yosi.util.Log info - Last Name of the patient TEST
+[INFO] 2018-11-08 14:23:09,685 com.yosi.util.Log info -  Last Name Validation In INSURANCE  PAGE
+[INFO] 2018-11-08 14:23:09,698 com.yosi.util.Log info - Secondary Lname entered : 
+TEST
+[INFO] 2018-11-08 14:23:10,068 com.yosi.util.Log info - Secondary DOB entered : 
+12/12/2007
+[INFO] 2018-11-08 14:23:10,210 com.yosi.util.Log info - Secondary Gender entered : 
+Male
+[INFO] 2018-11-08 14:23:10,459 com.yosi.util.Log info - Secondary SSN entered : 
+252-52-5252
+[INFO] 2018-11-08 14:23:11,464 com.yosi.util.Log info - Secondary Address entered 
+21,kindy Apartment,DS,10036.
+[INFO] 2018-11-08 14:23:11,681 com.yosi.util.Log info - PATIENT ADDITIONAL INFORMATION
+[INFO] 2018-11-08 14:23:12,920 com.yosi.util.Log info - SSN entered : 
+444-44-4444
+[INFO] 2018-11-08 14:23:13,191 com.yosi.util.Log info - Mobile number entered : 
+(503) 400-8675
+[INFO] 2018-11-08 14:23:13,236 com.yosi.util.Log info - Martial Drop Down value:
+                                                            Single
+                                                            Married
+                                                            Divorced
+                                                            Separated
+                                                            Widowed
+                                                            Other
+                                                    
+[INFO] 2018-11-08 14:23:14,563 com.yosi.util.Log info - EMC Fname: 
+Fredy
+[INFO] 2018-11-08 14:23:14,795 com.yosi.util.Log info - EMC Lname: 
+test
+[INFO] 2018-11-08 14:23:15,242 com.yosi.util.Log info - EMC Contact Num : 
+(555) 555-5555
+[INFO] 2018-11-08 14:23:15,397 com.yosi.util.Log info - PATIENT LIFESTYLE
+[INFO] 2018-11-08 14:23:17,271 com.yosi.util.Log info - PATIENT RX INFO
+[INFO] 2018-11-08 14:23:30,659 com.yosi.util.Log info - Medication list
+[INFO] 2018-11-08 14:23:30,949 com.yosi.util.Log info - Medication Selected : 
+
+[INFO] 2018-11-08 14:23:31,262 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 14:23:32,317 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 14:23:33,821 com.yosi.util.Log info - Selected value :
+Blue lips or fingernails
+[INFO] 2018-11-08 14:23:33,981 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 14:23:34,950 com.yosi.util.Log info - Selected value :
+Several days
+[INFO] 2018-11-08 14:23:35,145 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 14:23:36,994 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[DEBUG] 2018-11-08 14:23:42,102 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 14:23:42,103 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 14:23:42,104 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 14:23:42,105 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 14:23:42,105 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 14:23:49,753 com.yosi.util.Log info - POILCY PAGE 
+[INFO] 2018-11-08 14:23:53,221 com.yosi.util.Log info - Signature Page
+[INFO] 2018-11-08 14:31:18,365 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 14:31:19,167 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 14:31:20,895 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 14:31:21,743 com.yosi.util.Log info - Fname of the patientFloyd
+[INFO] 2018-11-08 14:31:21,767 com.yosi.util.Log info - Lname of the patientTest
+[INFO] 2018-11-08 14:31:40,604 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 14:31:40,611 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 14:31:40,618 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 14:31:40,624 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 14:31:40,634 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 14:31:40,685 com.yosi.util.Log info - NOTICE_OF_PRIVACY_PRACTICES 
+[INFO] 2018-11-08 14:31:40,695 com.yosi.util.Log info - PRIVACY POLICY
+[INFO] 2018-11-08 14:31:40,705 com.yosi.util.Log info - Signature Page
+[INFO] 2018-11-08 14:31:40,713 com.yosi.util.Log info - NOTICE_OF_PRIVACY_PRACTICES 
+[INFO] 2018-11-08 14:31:40,745 com.yosi.util.Log info - Assignment_of_Benefits
+[DEBUG] 2018-11-08 14:31:40,797 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 14:31:40,797 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 14:31:40,797 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 14:31:40,797 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 14:31:40,797 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 14:31:41,301 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 14:31:41,304 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 14:31:41,305 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 14:31:41,307 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 14:31:41,308 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 14:32:24,013 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 14:32:24,899 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 14:32:26,730 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 14:32:27,790 com.yosi.util.Log info - Fname of the patientFloyd
+[INFO] 2018-11-08 14:32:27,816 com.yosi.util.Log info - Lname of the patientTest
+[INFO] 2018-11-08 14:32:56,944 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 14:32:56,953 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 14:32:56,963 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 14:32:56,972 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 14:32:56,981 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 14:32:57,029 com.yosi.util.Log info - NOTICE_OF_PRIVACY_PRACTICES 
+[INFO] 2018-11-08 14:32:57,041 com.yosi.util.Log info - PRIVACY POLICY
+[INFO] 2018-11-08 14:32:57,052 com.yosi.util.Log info - Signature Page
+[INFO] 2018-11-08 14:32:57,059 com.yosi.util.Log info - NOTICE_OF_PRIVACY_PRACTICES 
+[INFO] 2018-11-08 14:32:57,070 com.yosi.util.Log info - Assignment_of_Benefits
+[DEBUG] 2018-11-08 14:32:57,097 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 14:32:57,097 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 14:32:57,097 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 14:32:57,097 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 14:32:57,097 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 14:32:57,358 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 14:32:57,358 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 14:32:57,358 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 14:32:57,358 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 14:32:57,359 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 14:33:38,609 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 14:33:39,418 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 14:33:40,969 com.yosi.util.Log info - PATIENT INFORMATION
+[INFO] 2018-11-08 14:33:41,859 com.yosi.util.Log info - Fname of the patientFloyd
+[INFO] 2018-11-08 14:33:41,886 com.yosi.util.Log info - Lname of the patientTest
+[DEBUG] 2018-11-08 14:34:01,359 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 14:34:01,359 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 14:34:01,359 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 14:34:01,375 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 14:34:01,375 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2018-11-08 14:34:01,600 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2018-11-08 14:34:01,616 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2018-11-08 14:34:01,616 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2018-11-08 14:34:01,616 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2018-11-08 14:34:01,616 freemarker.cache debug - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Dreams/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[INFO] 2018-11-08 14:34:15,312 com.yosi.util.Log info - ADDITIONAL SOCIAL HISTORY
+[INFO] 2018-11-08 14:34:16,423 com.yosi.util.Log info - MEDICAL HISTORY FORM
+[INFO] 2018-11-08 14:34:18,012 com.yosi.util.Log info - Selected value :
+Blue lips or fingernails
+[INFO] 2018-11-08 14:34:18,171 com.yosi.util.Log info - PHQ-9
+[INFO] 2018-11-08 14:34:19,180 com.yosi.util.Log info - Selected value :
+Several days
+[INFO] 2018-11-08 14:34:19,376 com.yosi.util.Log info - GAD-7
+[INFO] 2018-11-08 14:34:21,238 com.yosi.util.Log info - ENCOUNTER QUESTIONNAIRE 
+[INFO] 2018-11-08 14:34:33,288 com.yosi.util.Log info - NOTICE_OF_PRIVACY_PRACTICES 
+[INFO] 2018-11-08 14:34:36,609 com.yosi.util.Log info - PRIVACY POLICY
+[INFO] 2018-11-08 14:34:38,727 com.yosi.util.Log info - Signature Page
+[INFO] 2018-11-08 14:35:11,778 com.yosi.util.Log info - NOTICE_OF_PRIVACY_PRACTICES 
+[INFO] 2018-11-08 14:35:11,791 com.yosi.util.Log info - Assignment_of_Benefits
+[INFO] 2018-11-08 17:22:41,578 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 17:22:41,584 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 9:12 AM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 17:22:53,194 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 17:22:54,196 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 17:22:54,197 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 17:22:54,200 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 17:22:54,200 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 17:22:57,015 com.yosi.util.Log info - Data prefilled in PAtient info page
+[INFO] 2018-11-08 17:22:57,224 com.yosi.util.Log info - First Name of the patient Floyd
+[INFO] 2018-11-08 17:22:57,225 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 17:22:57,251 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 17:22:57,252 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 17:22:57,283 com.yosi.util.Log info - Gender of the patient Male
+[INFO] 2018-11-08 17:22:57,311 com.yosi.util.Log info - DOB of the patient 02/02/1992
+[INFO] 2018-11-08 17:22:57,770 com.yosi.util.Log info - Enter Address1 45 cross street
+[INFO] 2018-11-08 17:22:57,970 com.yosi.util.Log info - Enter Address2 Texas
+[INFO] 2018-11-08 17:28:34,804 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-08 17:28:34,806 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/08/2018 @ 9:12 AM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-08 17:28:57,773 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-08 17:28:58,689 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-08 17:28:58,689 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-08 17:28:58,709 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-08 17:28:58,709 com.yosi.util.Log info - Gender entered:Female
+[INFO] 2018-11-08 17:29:02,811 com.yosi.util.Log info - Data prefilled in PAtient info page
+[INFO] 2018-11-08 17:29:02,842 com.yosi.util.Log info - First Name of the patient Floyd
+[INFO] 2018-11-08 17:29:02,842 com.yosi.util.Log info -  First Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 17:29:02,869 com.yosi.util.Log info -  Last Name Validation In PATIENT INFO PAGE
+[INFO] 2018-11-08 17:29:02,870 com.yosi.util.Log info - Last Name of the patient Test
+[INFO] 2018-11-08 17:29:02,925 com.yosi.util.Log info - Gender of the patient Male
+[INFO] 2018-11-08 17:29:02,956 com.yosi.util.Log info - DOB of the patient 02/02/1992
+[INFO] 2018-11-08 17:29:03,496 com.yosi.util.Log info - Enter Address1 45 cross street
+[INFO] 2018-11-08 17:29:03,732 com.yosi.util.Log info - Enter Address2 Texas
+[INFO] 2018-11-08 17:29:17,485 com.yosi.util.Log info - Data prefilled in PAtient info page
+[INFO] 2018-11-08 17:29:17,530 com.yosi.util.Log info - Data prefilled in PAtient info page
+[INFO] 2018-11-08 17:32:07,003 com.yosi.util.Log info - Data prefilled in PAtient info page
+[INFO] 2018-11-08 17:32:07,115 com.yosi.util.Log info - Data prefilled in PAtient info page
