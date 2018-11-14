@@ -42,7 +42,7 @@ public class Desktop_Appoinment_Type1 {
 	@BeforeClass
 	 public void beforeClass() {
 		  
-			File file = new File("D:/Automation testing/YOSI_Desktop_App/src/main/java/com/yosi/config/config.properties");
+			File file = new File("D:/Automation_testing/YOSI_Desktop_App2/src/main/java/com/yosi/config/config.properties");
 			FileInputStream fileInput = null;
 			try {
 				fileInput = new FileInputStream(file);
