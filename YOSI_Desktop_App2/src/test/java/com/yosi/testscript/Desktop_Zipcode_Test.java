@@ -42,7 +42,7 @@ public class Desktop_Zipcode_Test {
 	@BeforeClass
 	 public void beforeClass() {
 		  
-			File file = new File("Test_yc/YOSI_Desktop_App2/src/main/java/com/yosi/config/config.properties");
+			File file = new File("C:\\Users\\Dreams\\Jenkins\\workspace\\Desktop\\YOSI_Desktop_App2\\src\\main\\java\\com\\yosi\\config\\config.properties");
 			FileInputStream fileInput = null;
 			try {
 				fileInput = new FileInputStream(file);
