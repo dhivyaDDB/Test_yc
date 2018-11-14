@@ -43,7 +43,7 @@ public class Athena_Mydependent_Checkin_TC {
 	@BeforeClass
 	 public void beforeClass() {
 		  
-			File file = new File("D:/Automation_testing/YOSI_Desktop_App2/src/main/java/com/yosi/config/config.properties");
+			File file = new File("Test_yc/YOSI_Desktop_App2/src/main/java/com/yosi/config/config.properties");
 			FileInputStream fileInput = null;
 			try {
 				fileInput = new FileInputStream(file);
